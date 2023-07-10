@@ -6,7 +6,7 @@ Orientação básica:
 - Documentar:
   - Qual é o site favorito?
   - As 3 funcionalidades que desenvolveu
-- Enviar resultado via e-mail até o dia 13/07: 
+- Enviar resultado via e-mail até o dia 12/07 às 23:59: 
   - Assunto: Entrega do desafio p/ vaga de estágio em dev. web (07/23)
   - E-mail: contato@hyerdev.com
   - Conteúdo: link do seu repositório (fork que fez) e o resultado do build (zip)
