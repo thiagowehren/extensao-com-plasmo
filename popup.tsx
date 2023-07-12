@@ -22,7 +22,6 @@ function IndexPopup() {
       const storedArticles = result.articles || [];
       setArticles(storedArticles);
     });
-  
   }, []);
   
   return (

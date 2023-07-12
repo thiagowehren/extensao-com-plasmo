@@ -28,14 +28,19 @@
     "host_permissions": [
       "https://marginalrevolution.com/*"
     ], "permissions" : [
-      "alarms",
       "storage",
       "tabs",
       "activeTab",
-      "webNavigation",
-      "notifications",
       "options",
-      "tabCapture"
-    ]
+      "tabCapture",
+      "commands"
+    ], "commands": {
+      "add-article": {
+        "suggested_key": {
+          "default": "Ctrl+Shift+1"
+        },
+        "description": "Add Article"
+      }
+    }
   }
 }
