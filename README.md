@@ -5,14 +5,17 @@ Orientação básica:
 - Fazer FORK desse repositório e programar nele.
 - Documentar:
   - Qual é o site favorito?
-  - https://marginalrevolution.com/
+    - **https://marginalrevolution.com/**
   - As 3 funcionalidades que desenvolveu
-  - Sidebar que exibe categorias (content)
-    Descrição: Funcionalidade que busca as categorias do endpoint /categories permitindo que o usuário acesse essas informações sem precisar ser obrigado a sair da página atual.
-  - Toggle para mostrar/esconder a sidebar (popup)
-    Descrição: Usuário pode o toggle para ter controle da visibilidade da sidebar do site.
-  - Opção de adicionar/remover bookmarks (popup)
-    Descrição: Usuário permite ao usuário adicionar a página que está navegando (ícone de adição) e remove-las (ícone de lixeira) no popup 
+    - **Sidebar que exibe categorias (content)**
+      - Descrição: Funcionalidade que busca as categorias do endpoint /categories permitindo que o usuário acesse essas informações sem precisar ser obrigado a sair da página atual.
+      - _utilização de fetch api, storage, tabs_
+    - **Toggle para mostrar/esconder a sidebar (popup)**
+      - Descrição: Usuário pode o toggle para ter controle da visibilidade da sidebar do site.
+      - _utilização de event listeners e sincronização entre tabs pelo storage_
+    - **Opção de adicionar/remover bookmarks (popup)**
+      - Descrição: Usuário permite ao usuário adicionar a página que está navegando (ícone de adição) e remove-las (ícone de lixeira) no popup
+      - _utilização de storage_
 - Enviar resultado via e-mail até o dia 12/07 às 23:59: 
   - Assunto: Entrega do desafio p/ vaga de estágio em dev. web (07/23)
   - E-mail: contato@hyerdev.com
