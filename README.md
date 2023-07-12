@@ -13,9 +13,9 @@ Orientação básica:
     - **Toggle para mostrar/esconder a sidebar (popup)**
       - Descrição: Usuário pode o toggle para ter controle da visibilidade da sidebar do site.
       - _utilização de event listeners e sincronização entre tabs pelo storage_
-    - **Opção de adicionar/remover bookmarks (popup)**
-      - Descrição: Usuário permite ao usuário adicionar a página que está navegando (ícone de adição) e remove-las (ícone de lixeira) no popup
-      - _utilização de storage_
+    - **Opção de adicionar/remover bookmarks (popup, background)**
+      - Descrição: Usuário permite ao usuário adicionar a página que está navegando (ícone de adição ou hotkey 'Ctrl+Shift+1') e remove-las (ícone de lixeira) no popup
+      - _utilização de storage e commands_
 - Enviar resultado via e-mail até o dia 12/07 às 23:59: 
   - Assunto: Entrega do desafio p/ vaga de estágio em dev. web (07/23)
   - E-mail: contato@hyerdev.com
