@@ -22,6 +22,13 @@ function IndexPopup() {
       const storedArticles = result.articles || [];
       setArticles(storedArticles);
     });
+  
+    chrome.commands.onCommand.addListener((command) => {
+      if (command === "add-article") {
+        handleAddArticle(setArticles);
+      }
+    });
+
   }, []);
   
   return (
